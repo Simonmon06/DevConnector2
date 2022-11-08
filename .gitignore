@@ -1,0 +1,4 @@
+node_modules/
+config/default.json
+
+# Now using node v18.12.1 (npm v8.19.2)
